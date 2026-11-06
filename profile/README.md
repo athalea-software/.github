@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://athalea.co">
-    <img alt="Athalea: modeling, simulation and data infrastructure for pharmaceutical and academic research" src="./assets/athalea-banner.png" width="100%">
+    <img alt="Athalea: modeling, simulation and data infrastructure for pharmaceutical and academic research" src="./assets/athalea-banner-v2.png" width="100%">
   </a>
 </p>
 
